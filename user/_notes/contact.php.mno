@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:contact_id;datatype:int,name:contact_name;datatype:string,name:mobile_number;datatype:real,name:email;datatype:string,name:subject;datatype:string,name:details;datatype:int,name:contact_date;datatype:date,name:status;datatype:string" />
+	<infoitem key="UD_comm" value="name:Company_Id;datatype:int,name:C_Name;datatype:string" />
+	<infoitem key="UD_quaa" value="name:Quality_Id;datatype:int,name:Quality_Name;datatype:string" />
+</info>

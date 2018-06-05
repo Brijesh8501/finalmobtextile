@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_comm" value="name:Company_Id;datatype:int,name:C_Name;datatype:string" />
+	<infoitem key="UD_broo" value="name:Broker_Id;datatype:int,name:B_Name;datatype:string" />
+	<infoitem key="UD_quaa" value="name:Quality_Id;datatype:int,name:Quality_Name;datatype:string" />
+	<infoitem key="UD_rsBobbininvoice" value="name:Bo_Invoice_Id;datatype:int,name:Bobbin_Invoice_Id;datatype:int,name:Total_Cartoon;datatype:real,name:Total_Weight;datatype:real,name:Quality_Name;datatype:string,name:Rate;datatype:real,name:Amt;datatype:real" />
+	<infoitem key="UD_rsBobbin" value="name:Bo_Invoice_Id;datatype:int,name:Bobbin_Invoice_Id;datatype:int,name:Total_Cartoon;datatype:real,name:Total_Weight;datatype:real,name:Quality_Name;datatype:string,name:Rate;datatype:real,name:Amt;datatype:real" />
+</info>

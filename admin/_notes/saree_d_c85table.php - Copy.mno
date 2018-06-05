@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsSaree" value="name:Sa_D_C_Id;datatype:int,name:Saree_D_C_Id;datatype:int,name:Saree_Lot_Id;datatype:int" />
+	<infoitem key="UD_rsSaaa" value="name:Sa_D_C_Id;datatype:int,name:Saree_D_C_Id;datatype:int,name:Saree_Lot_Id;datatype:int" />
+	<infoitem key="UD_rsSareeTaka" value="name:Sa_D_C_Id;datatype:int,name:Saree_D_C_Id;datatype:int,name:Saree_Lot_Id;datatype:int,name:Saree_Pieces;datatype:int,name:Quality_Name;datatype:string,name:Design;datatype:string" />
+</info>

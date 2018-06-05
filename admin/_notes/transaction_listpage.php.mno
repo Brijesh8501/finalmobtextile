@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsBe" value="name:Beam_D_C_Id;datatype:int,name:Beam_D_C_Date;datatype:date,name:Beam_D_C_No;datatype:string,name:C_Name;datatype:string,name:B_Name;datatype:string,name:Entry_Date;datatype:string" />
+	<infoitem key="UD_rsTra" value="name:Trans_Id;datatype:int,name:Trans_Type;datatype:string,name:Trans_Invoice_No;datatype:int,name:Trans_Date;datatype:date,name:Trans_Amt;datatype:real,name:Payment_Type;datatype:string,name:Chq_No;datatype:string,name:Chq_Date;datatype:string,name:Description;datatype:string,name:Status;datatype:string,name:Entry_Date;datatype:string" />
+</info>

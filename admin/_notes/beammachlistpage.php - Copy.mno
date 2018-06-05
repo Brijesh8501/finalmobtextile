@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:Be_M_Id;datatype:int,name:Beam_No;datatype:string,name:Machine_No;datatype:string,name:Started_Date;datatype:date,name:Status;datatype:string" />
+</info>

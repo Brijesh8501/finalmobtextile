@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsSareesss" value="name:Sa_Pro_Id;datatype:int,name:Be_M_Id;datatype:int,name:Beam_No;datatype:string" />
+	<infoitem key="UD_rsDCSA" value="name:Saree_D_C_Id;datatype:int,name:Saree_D_C_Date;datatype:date,name:Order_Id;datatype:int" />
+</info>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsBe" value="name:Beam_D_C_Id;datatype:int,name:Beam_D_C_Date;datatype:date,name:Beam_D_C_No;datatype:string,name:C_Name;datatype:string,name:B_Name;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:Bobbin_Rtrn_Id;datatype:int,name:Bobbin_Rtrn_Date;datatype:date,name:Bo_D_C_Id;datatype:int,name:C_Name;datatype:string,name:B_Name;datatype:string,name:Total_Cart;datatype:int" />
+</info>

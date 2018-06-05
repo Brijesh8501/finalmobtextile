@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsBrocus" value="name:Bro_Cus_Id;datatype:int,name:B_Name;datatype:string,name:Cu_En_Name;datatype:string" />
+	<infoitem key="UD_rsBroCom" value="name:Bro_Com_Id;datatype:int,name:B_Name;datatype:string,name:C_Name;datatype:string" />
+</info>

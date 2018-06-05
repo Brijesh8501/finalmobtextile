@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:Taka_Invoice_Id;datatype:int,name:Taka_Invoice_Date;datatype:date,name:Taka_D_C_Id;datatype:int,name:Taka_D_C_Date;datatype:date,name:Grandtotal;datatype:real" />
+</info>

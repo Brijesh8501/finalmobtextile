@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsBo" value="name:Bo_Invoice_Id;datatype:int,name:Bobbin_Invoice_Id;datatype:int,name:Total_Cartoon;datatype:real,name:Total_Weight;datatype:real,name:Quality_Name;datatype:string,name:Rate;datatype:real,name:Amt;datatype:real" />
+	<infoitem key="UD_rsBobbinRet" value="name:Bo_Rtrn_Id;datatype:int,name:Bobbin_Rtrn_Id;datatype:int,name:Total_Cartoon;datatype:int,name:Total_Weight;datatype:real,name:Quality_Name;datatype:string,name:Rate;datatype:real,name:Amt;datatype:real" />
+	<infoitem key="UD_Recordset1" value="name:Bo_Rtrn_Id;datatype:int,name:Bobbin_Rtrn_Id;datatype:int,name:Bobbin_D_C_Id;datatype:int,name:Total_Cartoon;datatype:int,name:Total_Weight;datatype:real,name:Quality_Name;datatype:string" />
+</info>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_state" value="name:st_id;datatype:int,name:st_name;datatype:string,name:cnt_id;datatype:int" />
+	<infoitem key="UD_comm" value="name:Company_Id;datatype:int,name:C_Name;datatype:string" />
+	<infoitem key="UD_quaa" value="name:Quality_Id;datatype:int,name:Quality_Name;datatype:string" />
+</info>

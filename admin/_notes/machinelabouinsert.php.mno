@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_state" value="name:st_id;datatype:int,name:st_name;datatype:string,name:cnt_id;datatype:int" />
+	<infoitem key="UD_RsMachine" value="name:Machine_Id;datatype:int,name:Machine_No;datatype:string" />
+	<infoitem key="UD_RsLabour" value="name:Labour_Id;datatype:int,name:Name;datatype:string" />
+	<infoitem key="UD_RsMachLabour" value="name:Mach_Lab_Id;datatype:int,name:Date;datatype:date,name:Machine_No;datatype:int,name:Labour;datatype:string,name:Shift;datatype:int" />
+	<infoitem key="UD_machh" value="name:Machine_No;datatype:string,name:Machine_Id;datatype:int" />
+</info>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RsMachine" value="name:Machine_Id;datatype:int,name:Machine_No;datatype:string" />
+	<infoitem key="UD_RsDaily" value="name:Mach_Mtr_Id;datatype:int,name:Machine_No;datatype:int,name:M_Date;datatype:string,name:Total_Meter;datatype:real" />
+</info>

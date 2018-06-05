@@ -1,0 +1,1 @@
+<?php $conn = new MySQLi("localhost","root","","textile"); ?>

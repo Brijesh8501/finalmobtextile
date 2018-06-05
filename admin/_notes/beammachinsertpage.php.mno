@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:Be_M_Id;datatype:int,name:Be_D_C_Id;datatype:int,name:Machine_Id;datatype:int,name:Started_Date;datatype:date,name:Status;datatype:string" />
+	<infoitem key="UD_machh" value="name:Machine_No;datatype:string,name:Machine_Id;datatype:int" />
+	<infoitem key="UD_rsBeam" value="name:Be_D_C_Id;datatype:int,name:Beam_D_C_Id;datatype:int,name:Beam_No;datatype:string" />
+</info>

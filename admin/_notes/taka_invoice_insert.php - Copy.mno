@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsCustomer" value="name:Customer_Id;datatype:int,name:Cu_En_Name;datatype:string" />
+	<infoitem key="UD_rsTakaid" value="name:Taka_Id;datatype:int" />
+	<infoitem key="UD_broo" value="name:Broker_Id;datatype:int,name:B_Name;datatype:string" />
+</info>

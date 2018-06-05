@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:Trans_Id;datatype:int,name:Voucher_No;datatype:int,name:Voucher_Type;datatype:string,name:Voucher_Date;datatype:date,name:Name;datatype:string,name:Voucher_Amt;datatype:real,name:Cr_Amt;datatype:real,name:Dr_Amt;datatype:real,name:Chq_No;datatype:string,name:Chq_Date;datatype:date,name:Narration;datatype:string" />
+</info>

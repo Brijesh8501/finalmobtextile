@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:Taka_Id;datatype:int,name:Be_M_Id;datatype:int,name:T_Date;datatype:date,name:Taka_No;datatype:string,name:Taka_Meter;datatype:real" />
+	<infoitem key="UD_machineno" value="name:Be_M_Id;datatype:int,name:Machine_Id;datatype:int,name:Machine_No;datatype:string" />
+</info>

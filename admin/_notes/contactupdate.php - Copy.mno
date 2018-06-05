@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_state" value="name:st_id;datatype:int,name:st_name;datatype:string,name:cnt_id;datatype:int" />
+	<infoitem key="UD_Recordset1" value="name:contact_id;datatype:int,name:contact_name;datatype:string,name:mobile_number;datatype:real,name:email;datatype:string,name:subject;datatype:string,name:details;datatype:string,name:contact_date;datatype:date,name:status;datatype:string" />
+</info>

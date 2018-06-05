@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:Saree_Invoice_Id;datatype:int,name:Saree_Invoice_Date;datatype:date,name:Saree_D_C_Id;datatype:int,name:Saree_D_C_Date;datatype:date,name:Cu_En_Name;datatype:string,name:B_Name;datatype:string,name:Total_Amt;datatype:real,name:Discount;datatype:real,name:Grandtotal;datatype:real" />
+</info>

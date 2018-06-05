@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsOrder" value="name:T_Order_Id;datatype:int,name:Om_Date;datatype:date,name:Cu_En_Name;datatype:string,name:B_Name;datatype:string,name:Status;datatype:string" />
+</info>

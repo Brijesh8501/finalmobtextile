@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsTakaid" value="name:Ta_D_C_Id;datatype:int,name:Taka_D_C_Id;datatype:int,name:Taka_Id;datatype:int,name:Taka_Meter;datatype:real,name:Taka_Weight;datatype:real,name:Quality_Name;datatype:string,name:Status;datatype:string" />
+</info>

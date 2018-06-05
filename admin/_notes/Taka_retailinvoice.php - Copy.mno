@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsQuality" value="name:Quality_Id;datatype:int,name:Quality_Name;datatype:string" />
+	<infoitem key="UD_RsTakaInvoice" value="name:Ta_Invoice_Id;datatype:int,name:Taka_Invoice_Id;datatype:int,name:Quality_Name;datatype:string,name:Total_Taka;datatype:int,name:Total_Meter;datatype:real,name:Rate;datatype:real,name:Amt;datatype:real" />
+</info>

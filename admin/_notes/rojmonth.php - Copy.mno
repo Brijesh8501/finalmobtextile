@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_state" value="name:st_id;datatype:int,name:st_name;datatype:string,name:cnt_id;datatype:int,name:Entry_Id;datatype:int" />
+</info>

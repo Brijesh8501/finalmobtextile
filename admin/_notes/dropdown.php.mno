@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsCompany" value="name:Quality_Id;datatype:int,name:Quality_Name;datatype:string" />
+	<infoitem key="UD_rsBroker" value="name:Design_Id;datatype:int,name:Design;datatype:string" />
+	<infoitem key="UD_rsDesign" value="name:Design_Id;datatype:int,name:Design;datatype:string" />
+</info>

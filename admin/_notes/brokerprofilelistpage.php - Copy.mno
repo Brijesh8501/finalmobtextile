@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsLabour" value="name:Labour_Id;datatype:int,name:Name;datatype:string,name:Photo;datatype:string,name:Status;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:Broker_Id;datatype:int,name:B_Name;datatype:string,name:Address;datatype:string,name:status;datatype:string" />
+</info>

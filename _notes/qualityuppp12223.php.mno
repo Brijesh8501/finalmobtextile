@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:Machine_Id;datatype:int,name:Machine_No;datatype:string,name:Status;datatype:string" />
+	<infoitem key="UD_quality" value="name:Quality_Id;datatype:int,name:Quality_Name;datatype:string,name:Description;datatype:string" />
+</info>

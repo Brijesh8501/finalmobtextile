@@ -1,0 +1,81 @@
+<?php include("logcode.php");
+include("databaseconnect.php");
+if(isset($_REQUEST['print']))
+{
+	$reportrange = $_REQUEST['reportrange']; 
+	$splitdate = explode("-",$reportrange);
+$date = $splitdate[0];
+$date1 = $splitdate[1];
+$dt = date('Y-m-d', strtotime($date));
+$dt1 = date('Y-m-d', strtotime($date1)); 
+      $sql1 = "SELECT beam_d_c_1.Beam_D_C_No,beam_d_c_1.Beam_D_C_Id,beam_dcorg.Be_D_C_Id,beam_dcorg.Beam_No, beam_dcorg.Taar, beam_dcorg.Beam_Meter, beam_dcorg.Weight, beam_dcorg.Status,beam_dcorg.R_Id, quality_details.Quality_Name FROM beam_d_c_1,beam_dcorg, quality_details WHERE beam_dcorg.Quality_Id = quality_details.Quality_Id AND beam_d_c_1.Beam_D_C_Id = beam_dcorg.Beam_D_C_Id AND beam_d_c_1.Beam_D_C_Date between '".$dt."' and '".$dt1."'  order by beam_d_c_1.Beam_D_C_Id asc ";
+   $rsSub = mysql_query($sql1);
+	$rowSub = mysql_fetch_array($rsSub);
+	$totalRowsRsSub = mysql_num_rows($rsSub);
+	}
+ ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>BEAM-DC[S] <?php echo $date.' - '.$date1;?></title>
+ <link rel="shortcut icon" href="Icons/st85.png">
+<style type="text/css">
+table{
+	border-collapse:collapse;
+}
+</style>
+</head>
+<body onload="window.print()">
+<table width="990" border="0" align="center" cellpadding="5" cellspacing="5" >
+  <tr  style="font-size:24px">
+    <?php date_default_timezone_set("Asia/Calcutta"); ?>
+    <td>
+      <div id="print-header-wrapper">
+                    <div class="row-fluid">&nbsp;&nbsp;&nbsp;Sub-BEAM CHALLAN <b>Report</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><?php echo $date.' - '.$date1;?></i></div>
+                    <div class="row-fluid" align="center"><strong>!! Shree Ganeshayan Namaha !!</strong><br/>
+    <strong>SHINGORI TEXTILE</strong></div>
+                    <div class="row-fluid" align="right"><?php echo date('Y/m/d h:i:s A'); ?>&nbsp;&nbsp;</div>
+                   </div>
+   </td>
+  </tr>
+  <tr >
+    <td colspan="8" valign="top">
+        <table width="100%" border="1" cellspacing="2" class="table" id="table_data" >
+        <thead>
+          <tr>
+                                             <th width="15%"><center>Chal. ID & Sub-ID</center></th>
+                                             <th width="15%"><center>Chal. No</center></th>
+                                             <th width="15%"><center>Beam No</center></th>
+                                             <th width="7%"><center>Taar</center></th>
+                                            <th width="7%"><center>Meter</center></th>
+                                            <th width="7%"><center>Weight</center></th>
+                                             <th width="30%"><center>Quality</center></th>
+                                             <th width="10%"><center>Status</center></th>
+                                             <th width="10%"><center>#ID</center></th>
+      </tr> 
+      </thead>
+     <?php
+									do { ?>                                    
+                                   <tbody>   
+  <tr align="center"> 
+     <td><?php echo $rowSub['Beam_D_C_Id']; ?><br />(<?php echo $rowSub['Be_D_C_Id']; ?>)</td>
+    <td><?php echo $rowSub['Beam_D_C_No']; ?></td>
+    <td><?php echo $rowSub['Beam_No']; ?></td>
+    <td><?php echo $rowSub['Taar']; ?></td>
+    <td><?php echo $rowSub['Beam_Meter']; ?></td>
+    <td><?php echo $rowSub['Weight']; ?></td>
+    <td><?php echo $rowSub['Quality_Name']; ?></td>
+    <td><?php echo $rowSub['Status']; ?></td>
+    <td><?php echo $rowSub['R_Id']; ?></td>
+   </tr>
+   </tbody>
+    <?php } while($rowSub=mysql_fetch_assoc($rsSub)); ?>
+        </table>
+                </td>
+             </tr>
+</table>
+</body>
+</html>
+<?php
+ ob_flush(); ?>

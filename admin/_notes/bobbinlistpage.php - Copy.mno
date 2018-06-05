@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsBobbin" value="name:Bo_D_C_Id;datatype:int,name:Bo_D_C_Date;datatype:date,name:Bo_D_C_No;datatype:string,name:C_Name;datatype:string,name:B_Name;datatype:string" />
+</info>

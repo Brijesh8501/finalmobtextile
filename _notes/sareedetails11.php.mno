@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:Saree_Lot_Id;datatype:int,name:Machine_No;datatype:string,name:S_Date;datatype:date,name:Saree_Lot_Meter;datatype:real,name:Saree_Pieces;datatype:int,name:Quality_Name;datatype:string,name:Design;datatype:string" />
+</info>

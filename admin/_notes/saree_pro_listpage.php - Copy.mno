@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsBe" value="name:Beam_D_C_Id;datatype:int,name:Beam_D_C_Date;datatype:date,name:Beam_D_C_No;datatype:string,name:C_Name;datatype:string,name:B_Name;datatype:string" />
+	<infoitem key="UD_rsSaree" value="name:Sa_Pro_Id;datatype:int,name:Be_M_Id;datatype:int,name:Started_Date;datatype:date" />
+	<infoitem key="UD_rsSareesss" value="name:Sa_Pro_Id;datatype:int,name:Be_M_Id;datatype:int,name:Beam_No;datatype:string" />
+</info>

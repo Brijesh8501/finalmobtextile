@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_quaa" value="name:Quality_Id;datatype:int,name:Quality_Name;datatype:string,name:Description;datatype:string" />
+	<infoitem key="UD_takaa" value="name:Taka_Id;datatype:int,name:Be_M_Id;datatype:int,name:T_Date;datatype:date,name:Taka_No;datatype:string,name:Taka_Meter;datatype:real,name:Quality_Id;datatype:int,name:Status;datatype:string,name:Description;datatype:string" />
+	<infoitem key="UD_rsTaka" value="name:Taka_Id;datatype:int,name:Be_M_Id;datatype:int,name:T_Date;datatype:date,name:Taka_No;datatype:string,name:Taka_Meter;datatype:real,name:Taka_Weight;datatype:real,name:Quality_Id;datatype:int,name:Status;datatype:string,name:Description;datatype:string" />
+</info>

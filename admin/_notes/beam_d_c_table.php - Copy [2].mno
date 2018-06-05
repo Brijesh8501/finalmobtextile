@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsBeam22" value="name:Be_D_C_Id;datatype:int,name:Beam_D_C_Id;datatype:int,name:Beam_No;datatype:string,name:Taar;datatype:real,name:Beam_Meter;datatype:real,name:Weight;datatype:real,name:Quality_Name;datatype:string" />
+</info>

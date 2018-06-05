@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_cityy" value="name:ct_id;datatype:int,name:ct_name;datatype:string,name:st_id;datatype:int" />
+	<infoitem key="UD_state" value="name:st_id;datatype:int,name:st_name;datatype:string,name:cnt_id;datatype:int" />
+	<infoitem key="UD_couu" value="name:cnt_id;datatype:int,name:cnt_name;datatype:string" />
+	<infoitem key="UD_reeggg" value="name:Registration_Id;datatype:int,name:Role_Id;datatype:int,name:Name;datatype:string,name:Photo;datatype:string,name:Address;datatype:string,name:Country;datatype:string,name:State;datatype:string,name:City;datatype:string,name:Mob_No;datatype:real,name:Mobile_No;datatype:real,name:Email_Id;datatype:string,name:Status;datatype:string,name:Username;datatype:string,name:Password;datatype:string" />
+	<infoitem key="UD_role" value="name:Role_Id;datatype:int,name:Role_Name;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:Company_Id;datatype:int,name:C_Name;datatype:string,name:Address;datatype:string,name:ct_id;datatype:int,name:st_id;datatype:int,name:Phone_No;datatype:string,name:Mobile_No;datatype:real,name:Email_Id;datatype:string,name:Status;datatype:string" />
+</info>

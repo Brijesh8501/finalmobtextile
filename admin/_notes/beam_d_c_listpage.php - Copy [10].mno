@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:Be_M_Id;datatype:int,name:Beam_No;datatype:string,name:Machine_No;datatype:string,name:Started_Date;datatype:date,name:Status;datatype:string" />
+	<infoitem key="UD_rsbeam" value="name:Beam_D_C_Id;datatype:int,name:C_Name;datatype:string,name:B_Name;datatype:string,name:Beam_D_C_Date;datatype:date,name:Beam_D_C_No;datatype:string,name:Beam_No;datatype:string,name:Taar;datatype:real,name:Beam_Meter;datatype:real,name:Quality_Name;datatype:string" />
+	<infoitem key="UD_rsBe" value="name:Beam_D_C_Id;datatype:int,name:Beam_D_C_Date;datatype:date,name:Beam_D_C_No;datatype:string,name:C_Name;datatype:string,name:B_Name;datatype:string,name:Entry_Date;datatype:string" />
+	<infoitem key="UD_rsBe_D" value="name:Beam_D_C_Id;datatype:int,name:Be_D_C_Id;datatype:int" />
+</info>

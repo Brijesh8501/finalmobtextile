@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsBroCom" value="name:Bro_Com_Id;datatype:int,name:Broker_Id;datatype:int,name:Company_Id;datatype:int" />
+	<infoitem key="UD_rsBro" value="name:Broker_Id;datatype:int,name:B_Name;datatype:string" />
+	<infoitem key="UD_rsCom" value="name:Company_Id;datatype:int,name:C_Name;datatype:string" />
+	<infoitem key="UD_RsBro" value="name:Broker_Id;datatype:int,name:B_Name;datatype:string" />
+</info>

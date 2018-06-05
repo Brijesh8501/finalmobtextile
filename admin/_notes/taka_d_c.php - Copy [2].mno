@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsQuality" value="name:Quality_Id;datatype:int,name:Quality_Name;datatype:string" />
+	<infoitem key="UD_rsTaka" value="name:Taka_D_C_Id;datatype:int,name:Cu_En_Name;datatype:string,name:Address;datatype:string,name:B_Name;datatype:string,name:Taka_D_C_Date;datatype:date" />
+	<infoitem key="UD_rsTakadetails" value="name:Ta_D_C_Id;datatype:int,name:Taka_D_C_Id;datatype:int,name:Taka_No;datatype:string,name:Taka_Meter;datatype:real,name:Quality_Name;datatype:string,name:Taka_Id;datatype:int,name:Taka_Weight;datatype:real" />
+	<infoitem key="UD_RsTakaDetails" value="name:Ta_D_C_Id;datatype:int,name:Taka_D_C_Id;datatype:int,name:Taka_Id;datatype:int,name:Taka_Meter;datatype:real,name:Taka_Weight;datatype:real,name:Quality_Name;datatype:string" />
+</info>

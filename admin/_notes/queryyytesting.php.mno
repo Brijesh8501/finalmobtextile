@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:Mach_Lab_Id;datatype:int,name:Date;datatype:date,name:Machine_No;datatype:int,name:Name;datatype:string,name:Labour_Id;datatype:int,name:Shift;datatype:int,name:Status;datatype:string" />
+</info>

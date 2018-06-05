@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsQuality" value="name:Quality_Id;datatype:int,name:Quality_Name;datatype:string" />
+	<infoitem key="UD_RsSaree" value="name:Saree_Lot_Id;datatype:int,name:Sa_Pro_Id;datatype:int,name:Date;datatype:date,name:Saree_Lot_Meter;datatype:real,name:Saree_Pieces;datatype:int,name:Quality_Name;datatype:string,name:Design;datatype:string,name:Status;datatype:string,name:Description;datatype:string" />
+</info>

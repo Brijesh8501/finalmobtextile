@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:Design_Id;datatype:int,name:Design;datatype:string,name:Quality_Id;datatype:int,name:Photo;datatype:string" />
+	<infoitem key="UD_quaa" value="name:Quality_Id;datatype:int,name:Quality_Name;datatype:string,name:Description;datatype:string" />
+</info>

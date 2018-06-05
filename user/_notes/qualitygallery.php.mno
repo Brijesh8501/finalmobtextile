@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:gallery_id;datatype:int,name:image_name;datatype:string,name:thumbnail;datatype:string,name:image;datatype:string,name:sequence;datatype:int,name:status;datatype:int" />
+</info>

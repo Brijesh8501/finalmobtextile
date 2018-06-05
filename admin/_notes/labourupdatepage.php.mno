@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_lll" value="name:Labour_Id;datatype:int,name:Name;datatype:string,name:Photo;datatype:string,name:Address;datatype:string,name:Country;datatype:string,name:State;datatype:string,name:City;datatype:string,name:Mobb_No;datatype:real,name:Mobile_No;datatype:real,name:W_Type_Id;datatype:int,name:Status;datatype:string" />
+	<infoitem key="UD_cityy" value="name:ct_id;datatype:int,name:ct_name;datatype:string,name:st_id;datatype:int" />
+	<infoitem key="UD_state" value="name:st_id;datatype:int,name:st_name;datatype:string,name:cnt_id;datatype:int" />
+	<infoitem key="UD_couu" value="name:cnt_id;datatype:int,name:cnt_name;datatype:string" />
+	<infoitem key="UD_wrktype" value="name:W_Type_Id;datatype:int,name:W_Type_Name;datatype:string,name:Description;datatype:string" />
+	<infoitem key="UD_rsLabour" value="name:Labour_Id;datatype:int,name:Name;datatype:string,name:Photo;datatype:string,name:Address;datatype:string,name:cnt_id;datatype:int,name:st_id;datatype:int,name:ct_id;datatype:int,name:Mobb_No;datatype:real,name:Mobile_No;datatype:real,name:W_Type_Id;datatype:int,name:Status;datatype:string" />
+</info>

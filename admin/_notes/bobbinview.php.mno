@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_quaa" value="name:Quality_Id;datatype:int,name:Quality_Name;datatype:string" />
+	<infoitem key="UD_com" value="name:Company_Id;datatype:int,name:C_Name;datatype:string" />
+	<infoitem key="UD_broo" value="name:Broker_Id;datatype:int,name:B_Name;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:Bo_Rtrn_Id;datatype:int,name:Bobbin_Rtrn_Id;datatype:int,name:Bobbin_D_C_Id;datatype:int,name:Total_Cartoon;datatype:int,name:Total_Weight;datatype:real,name:Quality_Name;datatype:string" />
+</info>

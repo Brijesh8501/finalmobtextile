@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_worktype" value="name:W_Type_Id;datatype:int,name:W_Type_Name;datatype:string,name:Description;datatype:string" />
+</info>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsLotid" value="name:Sa_Invoice_Id;datatype:int,name:Saree_Invoice_Id;datatype:int,name:Quality_Name;datatype:string,name:Design;datatype:string,name:Total_Meter;datatype:real,name:Total_Pieces;datatype:int,name:Rate;datatype:real,name:Amt;datatype:real" />
+</info>
